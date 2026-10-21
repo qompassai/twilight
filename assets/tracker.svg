@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="326" viewBox="0 0 760 326" role="img" aria-label="twilight progress tracker: 22% of gates closed">
+<defs>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#f6e8c8"/><rect width="2.5" height="6" fill="#bf8700"/></pattern>
+</defs>
+<rect x="0" y="0" width="760" height="326" fill="#ffffff"/>
+<text x="20" y="30" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1f2328">twilight — progress tracker</text>
+<text x="740" y="30" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1f2328" text-anchor="end">22%</text>
+<text x="20" y="50" font-family="sans-serif" font-size="12" fill="#57606a">6 of 27 gates closed · 0 delivered, ungated · updated 2026-10-21</text>
+<rect x="20.0" y="60" width="720.0" height="14" rx="3" fill="#e5e7eb"/>
+<rect x="20.0" y="60" width="160.0" height="14" rx="3" fill="#2da44e"><animate attributeName="width" from="0" to="160.0" dur="0.8s" fill="freeze"/></rect>
+<circle cx="24" cy="101" r="4" fill="#2da44e"></circle>
+<text x="36" y="105" font-family="sans-serif" font-size="13" fill="#1f2328">Ideation &amp; commissioning</text>
+<text x="740" y="105" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">100%</text>
+<rect x="20.0" y="112" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<rect x="20.0" y="112" width="720.0" height="7" rx="3" fill="#2da44e"></rect>
+<circle cx="24" cy="135" r="4" fill="#bf8700"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="36" y="139" font-family="sans-serif" font-size="13" fill="#1f2328">Slice A — the front desk</text>
+<text x="740" y="139" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">25%</text>
+<rect x="20.0" y="146" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<rect x="20.0" y="146" width="180.0" height="7" rx="3" fill="#2da44e"></rect>
+<circle cx="24" cy="169" r="4" fill="#2da44e"></circle>
+<text x="36" y="173" font-family="sans-serif" font-size="13" fill="#1f2328">Slice B — Create</text>
+<text x="740" y="173" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">0%</text>
+<rect x="20.0" y="180" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<circle cx="24" cy="203" r="4" fill="#2da44e"></circle>
+<text x="36" y="207" font-family="sans-serif" font-size="13" fill="#1f2328">Slice C — studio</text>
+<text x="740" y="207" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">0%</text>
+<rect x="20.0" y="214" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<circle cx="24" cy="237" r="4" fill="#2da44e"></circle>
+<text x="36" y="241" font-family="sans-serif" font-size="13" fill="#1f2328">1.0</text>
+<text x="740" y="241" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">0%</text>
+<rect x="20.0" y="248" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<circle cx="24" cy="271" r="4" fill="#2da44e"></circle>
+<text x="36" y="275" font-family="sans-serif" font-size="13" fill="#1f2328">Beyond 1.0</text>
+<text x="740" y="275" font-family="sans-serif" font-size="12" fill="#57606a" text-anchor="end">0%</text>
+<rect x="20.0" y="282" width="720.0" height="7" rx="3" fill="#e5e7eb"/>
+<text x="20" y="316" font-family="sans-serif" font-size="11" fill="#57606a">Generated from CHECKLIST.md — the bar moves only when a gate closes.</text>
+</svg>
